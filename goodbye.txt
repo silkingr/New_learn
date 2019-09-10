@@ -1,3 +1,4 @@
 print("goodbye!");
 print("Bye-Bye");
 print("Bye.");
+print("zero");
