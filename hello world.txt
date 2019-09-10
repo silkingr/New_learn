@@ -1,4 +1,4 @@
 print("Hello, world!!;")
-print("Hello;");
-print("Hello my dear friend;");
-print("Glass a see you;");
+print("Hello!;");
+print("Hello my dear friend!;");
+print("Glass a see you!;");
